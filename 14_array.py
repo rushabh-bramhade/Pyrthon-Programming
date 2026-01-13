@@ -1,3 +1,7 @@
+" normal array example with import array"
+
+
+
 from array import array
 
 #interger example ->
