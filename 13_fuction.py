@@ -1,8 +1,8 @@
-# num = 10
-# def multi():
-#     result = num * 2
-#     print(result)
-# multi()
+num = 10
+def multi():
+    result = num * 2
+    print(result)
+multi()
 
 
 
