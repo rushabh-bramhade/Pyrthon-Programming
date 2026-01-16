@@ -10,4 +10,3 @@ for i in range(user_input):
        
     
 print(arr)
-print(reversed(arr))
