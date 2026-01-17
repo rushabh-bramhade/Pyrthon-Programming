@@ -21,7 +21,7 @@ print("\n double example -> \n")
 for i in range(len(double_num)):
     print(double_num[i] , end=" ")
 
-
+ 
 #float example 
 
 float_num = array("f" , [2.3,4.3,24.3,9])
